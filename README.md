@@ -102,7 +102,7 @@ output/
 
 ---
 
-## 📋 Example
+##  Example
 
 ### Input
 
@@ -141,7 +141,7 @@ openpyxl
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 1. Scans the `project/` directory.
 2. Opens each `.docx` file.
@@ -165,7 +165,7 @@ openpyxl
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome!
 
@@ -192,6 +192,6 @@ git push origin feature-name
 
 ---
 
-## ⭐ Support
+##  Support
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
