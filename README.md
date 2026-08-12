@@ -62,7 +62,7 @@ pip install python-docx openpyxl
 
 ---
 
-## ▶️ Usage
+##  Usage
 
 ### Step 1
 
