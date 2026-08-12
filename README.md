@@ -6,12 +6,12 @@ A simple Python utility that automatically reads all `.docx` files from a folder
 
 ##  Features
 
-- 📂 Reads all `.docx` files from a specified input folder.
+-  Reads all `.docx` files from a specified input folder.
 -  Extracts:
   - Paragraphs
   - Tables
-- 📊 Creates one Excel (`.xlsx`) file for each Word document.
-- 📁 Automatically creates an output folder if it doesn't exist.
+-  Creates one Excel (`.xlsx`) file for each Word document.
+-  Automatically creates an output folder if it doesn't exist.
 - 📝 Preserves the original filename.
 - ⚡ Fast and easy to use.
 
