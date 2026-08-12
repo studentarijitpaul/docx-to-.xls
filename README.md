@@ -124,7 +124,7 @@ output/
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 - Python 3.9+
 - python-docx
@@ -132,7 +132,7 @@ output/
 
 ---
 
-## 📄 requirements.txt
+##  requirements.txt
 
 ```
 python-docx
