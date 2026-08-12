@@ -1,13 +1,13 @@
-# 📄 DOCX to Excel Converter
+#  DOCX to Excel Converter
 
 A simple Python utility that automatically reads all `.docx` files from a folder, extracts their content (paragraphs and tables), and converts each document into a separate `.xlsx` file.
 
 ---
 
-## ✨ Features
+##  Features
 
 - 📂 Reads all `.docx` files from a specified input folder.
-- 📑 Extracts:
+-  Extracts:
   - Paragraphs
   - Tables
 - 📊 Creates one Excel (`.xlsx`) file for each Word document.
