@@ -17,7 +17,7 @@ A simple Python utility that automatically reads all `.docx` files from a folder
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 docx-to-excel/
