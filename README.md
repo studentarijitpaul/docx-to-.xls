@@ -39,7 +39,7 @@ docx-to-excel/
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 Clone the repository:
 
